@@ -2,8 +2,8 @@
 
 A curated guide for matching local AI models to hardware. If you need precise calculations for context windows, KV-cache, and throughput, use the interactive calculator below.
 
-### Interactive Calculator
-**[ Launch VRAMCalc (Zero-Tracking & Static)](https://vramcalc.sgl-00.workers.dev/)**
+### 🚀 Interactive Calculator
+**[👉 Launch VRAMCalc (Zero-Tracking & Static)](https://vramcalc.sgl-00.workers.dev/)**
 
 ---
 
